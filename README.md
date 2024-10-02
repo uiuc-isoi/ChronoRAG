@@ -20,7 +20,7 @@ This file is the main script for this repository. Other files can be called from
 ### Instructions for HF pipeline
 - The HF pipeline uses Llama2 model. To change this, modify the `model_id`.
 - The user input query is taken from the "QUERY" environment variable.
-### Instructions for RAG agent
+### Instructions for RAG
 - The RAG agent uses a vectore store and takes user input queries from .txt files in the QUERY_DIR_PATH.
 - The vector store should already be defined and the collection should exists.
 - Define the env variables in `.env` file
