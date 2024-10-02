@@ -1,0 +1,16 @@
+langchain==0.1.12
+langchain-community==0.0.28
+langchain-core==0.1.31
+langchain-openai==0.0.8
+langchain-text-splitters==0.0.1
+langchainhub==0.1.14
+langdetect==1.0.9
+langsmith
+huggingface-hub==0.19.3
+lxml==4.9.3
+marvin==2.1.2
+qdrant-client==1.8.0
+pypdf==4.1.0
+cryptography>=42.0.0
+docx2txt
+pyarrow==16.1.0
